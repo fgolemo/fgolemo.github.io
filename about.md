@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### My Research Interests
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+TODO
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Write me to [florian.golemo@inria.fr](mailto:florian.golemo@inria.fr) or see the links below.
