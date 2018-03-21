@@ -1,7 +1,7 @@
-- profile pic from facebook
-- research interest outline
-- research interest details
-- research interest images
-- projects outline
-- projects images
-- projects details
+- [x] profile pic from facebook
+- [x] research interest outline
+- [x] research interest details
+- [x] research interest images
+- [ ] projects outline
+- [ ] projects images
+- [ ] projects details
