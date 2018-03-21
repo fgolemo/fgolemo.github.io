@@ -27,6 +27,7 @@ permalink: /teaching-talks/
 #### 2015
 
 - *\[Amsterdam\]* **"Machine Learning"** - Third year undergrad introduction to classic general machine learning, with supervised and unsupervised learning as well as performance metrics. [\[Course material \(not mine\)\]](https://www.studocu.com/en/course/vrije-universiteit-amsterdam/machine-learning/56706)
+
 - *\[Amsterdam\]* **"Bachelor Thesis: 'Examining the State of Current Medical Question Answering Systems'"** - Student supervision for undergrad thesis 
  
 
