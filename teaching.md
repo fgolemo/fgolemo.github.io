@@ -4,9 +4,6 @@ title: Teaching & Talks
 permalink: /teaching-talks/
 ---
 
-
----
-
 ## Teaching
 
 #### 2018
@@ -30,4 +27,22 @@ permalink: /teaching-talks/
 
 - *\[Amsterdam\]* **"Bachelor Thesis: 'Examining the State of Current Medical Question Answering Systems'"** - Student supervision for undergrad thesis 
  
+ 
+--- 
+
+
+## Talks
+
+- *\[2018\]* - **"Zero-Shot Sim2real Policy Transfer via Embedded Dynamics"** - Talk about my current research for the ISIR lab at the UPMC Paris
+
+- *\[2018\]* - **"Introduction to Robot Simulators"** - Talk for a CHIST-ERA language grounding workshop
+
+- *\[2018\]* - **"Sim2real Policy Transfer and Exploration in DRL"** - Talk for a Deep Reinforcement Learning workshop of INRIA.
+
+<!--
+- *\[2018\]* - **"Introduction to Robot Simulators"**
+- *\[2018\]* - **"Introduction to Robot Simulators"**
+- *\[2018\]* - **"Introduction to Robot Simulators"**
+-->
+
 
