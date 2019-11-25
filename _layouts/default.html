@@ -24,15 +24,29 @@
 
             <div class="site-info">
                 <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-                <p class="site-description">{{ site.description }}</p>
+                <p class="site-description">
+                    Postdoc in machine learning for robots at
+                    <a href='https://mila.quebec/'>Mila</a> & <a href="https://www.elementai.com/">ElementAI</a>.
+                    Supervised by <br><a href="http://liampaull.ca/">Liam Paull</a> (Mila),
+                    <a href="https://mila.quebec/en/person/aaron-courville/">Aaron Courville</a> (Mila), and
+                    <a href="https://mila.quebec/en/person/pal-christopher/">Chris Pal</a> (EAI).
+                    Interested in sim2real transfer, robot perception and shoddy robots.
+                </p>
             </div>
+
+            <footer class="footer">
+                {% include svg-icons.html %}
+            </footer>
+
+<!--            <div class="clearfix"></div>-->
 
             <nav>
                 <a href="{{ site.baseurl }}/">Research</a>
                 <!--<a href="{{ site.baseurl }}/blog">Blog</a>-->
                 <a href="{{ site.baseurl }}/publications">Publications</a>
-                <a href="{{ site.baseurl }}/projects">Projects</a>
-                <a href="{{ site.baseurl }}/teaching-talks">Teaching</a>
+<!--                <a href="{{ site.baseurl }}/projects">Projects</a>-->
+                <a href="{{ site.baseurl }}/teaching-talks-students">Teaching</a>
+                <a href="{{ site.baseurl }}/about-contact">About & Contact</a>
 
             </nav>
         </header>
@@ -43,13 +57,13 @@
     {{ content }}
 </div>
 
-<div class="wrapper-footer">
-    <div class="container">
-        <footer class="footer">
-            {% include svg-icons.html %}
-        </footer>
-    </div>
-</div>
+<!--<div class="wrapper-footer">-->
+<!--    <div class="container">-->
+<!--        <footer class="footer">-->
+<!--            {% include svg-icons.html %}-->
+<!--        </footer>-->
+<!--    </div>-->
+<!--</div>-->
 
 {% include analytics.html %}
 </body>

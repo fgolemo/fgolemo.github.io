@@ -6,7 +6,7 @@
 name: Florian Golemo
 
 # Short bio or description (displayed in the header)
-description: Postdoc at MILA & ElementAI. AI dreamer, dev, gamer, climber.
+description: Postdoc in machine learning for robots at Mila & ElementAI.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/fb-profile-pic.png
@@ -17,13 +17,13 @@ avatar: /images/fb-profile-pic.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: florian.golemo@inria.fr
+  email: fgolemo@gmail.com
   github: fgolemo
-  instagram: man_with_buns
+#  instagram: man_with_buns
   linkedin: fgolemo
   rss: # just type anything here for a working RSS icon
-  twitter: fgolemo
-  stackoverflow: "users/4110625/florian-golemo"
+  twitter: shoddy_robots
+#  stackoverflow: "users/4110625/florian-golemo"
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts

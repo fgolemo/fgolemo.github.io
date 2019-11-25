@@ -165,8 +165,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 112px;
+  height: 112px;
   margin-right: 15px;
 
   @include mobile {
@@ -298,6 +298,20 @@ article p::after {
   display: table;
 }
 
+.site-description {
+  max-width: 580px;
+}
+
+.site-info {
+  min-height: 120px;
+}
+
+header footer {
+  float: left;
+  margin-top: 15px;
+  padding: 0;
+  text-align: inherit;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

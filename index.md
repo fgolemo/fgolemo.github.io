@@ -25,4 +25,4 @@ title: My Research Interests
 
 ### Contact me
 
-Write me to [florian.golemo@inria.fr](mailto:florian.golemo@inria.fr) or see the links below.
+Write me to [fgolemo@gmail.com](mailto:fgolemo@gmail.com) or see the links at the top.

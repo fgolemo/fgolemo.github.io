@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Teaching & Talks
-permalink: /teaching-talks/
+permalink: /teaching-talks-students/
 ---
 
 ## Teaching
 
 #### 2018
+
+- *\[Montreal\]* **"Duckietown Winter 2018"** - Grad student level introduction to robotics, control, and simulation with little self-driving duckie cars [\[http://duckietown.org/\]](http://duckietown.org/) 
 
 - *\[Bordeaux\]* **"MIAGE Reseaux 2018"** - Second year undergrad introduction to networking, using Unix tools and Python. [\[Github - course material\]](https://github.com/fgolemo/course-2018-networks)
 
