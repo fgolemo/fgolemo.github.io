@@ -4,6 +4,8 @@ title: Teaching & Talks
 permalink: /teaching-talks-students/
 ---
 
+TODO: this page needs to be updated
+
 ## Teaching
 
 #### 2018

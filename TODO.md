@@ -4,10 +4,12 @@
 - [x] add first 3 project imgs
 - [x] add second 3 projects
 - [x] add second 3 project imgs
-- [ ] add bio text file on About page
-- [ ] add CV file on About page
-- [ ] add content to About page
-- [ ] add Liam internship form to students page & about page
+- [x] add bio text file on About page
+- [x] add CV file on About page
+- [x] add content to About page
+- [x] add Liam internship form to students page & about page
+- [ ] make list of current/past students
+- [ ] list students on about page
 - [ ] add talks
 - [ ] add youtube link / poster for every paper
 - [ ] add img for every paper
