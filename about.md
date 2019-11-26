@@ -6,9 +6,9 @@ permalink: /about-contact/
 
 ## Contact
 
-To contact me, please use the links above.
+To contact me, please use the links above or send me an email to fgolemo at gmail dot com.
 
-If you're a **student looking for an internship**, please use this form: https://forms.gle/BB5csPfhZ7zUEEgg9
+If you're a **student looking for an internship**, please use this form: [https://forms.gle/BB5csPfhZ7zUEEgg9](https://forms.gle/BB5csPfhZ7zUEEgg9)
 
 <!--If you're looking for my [**CV**, that's available here]().-->
 
