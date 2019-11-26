@@ -292,6 +292,12 @@ article p img {
   padding-left: 20px;
 }
 
+article iframe.giphy-embed {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
 article p::after {
   content: "";
   clear: both;

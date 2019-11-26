@@ -1,9 +1,9 @@
-- [ ] shorten research interest
-- [ ] make list of projects
-- [ ] add first 3 projects
-- [ ] add first 3 project imgs
-- [ ] add second 3 projects
-- [ ] add second 3 project imgs
+- [x] shorten research interest
+- [x] make list of projects
+- [x] add first 3 projects
+- [x] add first 3 project imgs
+- [x] add second 3 projects
+- [x] add second 3 project imgs
 - [ ] add bio text file on About page
 - [ ] add CV file on About page
 - [ ] add content to About page
@@ -17,6 +17,25 @@
 - [x] add recent research
 - [x] add teachings
 - [ ] B: cluster research by tag
+
+
+Projects:
+
+sim2real
+
+- ADR
+- PhysDist / Roger
+- NAS++
+
+3D perception
+
+- Pix2Surfel
+- SEVN
+- DiffSim
+
+Misc
+
+- Duckietown
 
 
 
